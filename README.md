@@ -1,1 +1,1 @@
-# testforlua2
+# why there is a main.lua?
